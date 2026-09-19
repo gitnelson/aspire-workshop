@@ -7,9 +7,18 @@
     "build": "node scripts/build.mjs",
     "dev": "node server.js",
     "start": "node server.js",
-    "test": "playwright test"
+    "test": "playwright test",
+    "pitch:build": "node pitch/build.mjs",
+    "pitch:render": "node pitch/render.mjs",
+    "pitch:stills": "node pitch/render.mjs --stills-only"
   },
   "devDependencies": {
-    "@playwright/test": "^1.63.0"
+    "@playwright/test": "^1.63.0",
+    "@remotion/cli": "4.0.526",
+    "@remotion/player": "4.0.526",
+    "esbuild": "0.25.5",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.526"
   }
 }

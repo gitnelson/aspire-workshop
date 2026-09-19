@@ -11,3 +11,4 @@ node_modules/
 .tmp-image-tools/
 .qa/
 dist/
+pitch/output/

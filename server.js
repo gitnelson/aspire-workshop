@@ -8,6 +8,12 @@ for (const name of ['inter','newsreader']) {
   files.set(`/assets/${name}-latin.woff2`, [`assets/${name}-latin.woff2`, 'font/woff2']);
 }
 const port = Number(process.env.PORT || 4173);
+files.set('/pitch/', ['pitch/dist/index.html','text/html']);
+files.set('/pitch/index.html', ['pitch/dist/index.html','text/html']);
+files.set('/pitch/deck.js', ['pitch/dist/deck.js','text/javascript']);
+files.set('/pitch/tulsa-housing-pitch.mp4', ['pitch/media/tulsa-housing-pitch.mp4','video/mp4']);
+files.set('/pitch/tulsa-housing-pitch.pdf', ['pitch/media/tulsa-housing-pitch.pdf','application/pdf']);
+for (const name of ['demo-request','demo-review','demo-match']) files.set(`/assets/${name}.png`,[`assets/${name}.png`,'image/png']);
 http.createServer(async (req,res) => {
   if (!['GET','HEAD'].includes(req.method)) { res.writeHead(405, {Allow:'GET, HEAD'}); return res.end(); }
   const entry = files.get(new URL(req.url,'http://localhost').pathname);

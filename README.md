@@ -24,6 +24,10 @@ Recruitment and retention are the primary goals. Law firms can express interest 
 
 Public URL: https://gitnelson.github.io/aspire-workshop/
 
+Animated Remotion pitch: https://gitnelson.github.io/aspire-workshop/pitch/
+
+The 10-slide, 90-second deck speaks to legal partners and local philanthropic supporters. It includes playback, slide navigation, presenter notes, and MP4/PDF downloads. See `pitch/README.md` for source and rendering instructions. Run `npm ci` before building the public site and deck together.
+
 GitHub Pages is published by `.github/workflows/pages.yml` on pushes to `main`. `npm run build` assembles only public runtime files and font licenses in `dist/`; source notes, original photos, tests, and development files are excluded from the deployed artifact.
 
 The site is plain HTML, CSS, and JavaScript. The contents of `dist/` can also be published on any static host. Hash navigation works without server route rewrites. Optimized WebP photos and fonts are self-hosted; there are no third-party runtime requests.

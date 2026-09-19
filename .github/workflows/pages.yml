@@ -26,6 +26,8 @@ jobs:
         with:
           node-version: '22'
       - name: Prepare public files
+        run: npm ci
+      - name: Build website and pitch
         run: npm run build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
