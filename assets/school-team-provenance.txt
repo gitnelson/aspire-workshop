@@ -1,0 +1,6 @@
+Asset: school-team.webp
+Original: school-team-original.png
+Generated with built-in image_gen on 2026-09-19. Fictional people; not actual legal program participants.
+Source: C:/Users/corey/.codex/generated_images/01a0bbac-632e-7eb1-9198-ddc2731837ea/exec-2b98be41-1ea5-4284-8b23-9b1951e52260.png
+Web asset: resized from 1586x992 to 1600x1000 and encoded as WebP quality 87 using Pillow.
+Prompt: Use case: photorealistic-natural. Asset type: premium editorial supporting photograph for a Tulsa housing justice website law school partnerships page. Generate ONE 1600x1000 landscape photograph. Scene: bright university library, soft bookshelves out of focus, a shared wood table. Subjects: three diverse adult law students, an Asian woman, a Black man, and a Latino woman, collaboratively discussing notes with an older woman faculty mentor. Thoughtful natural candid expressions and easy rapport. Relaxed professional casual sweaters, tees, and open shirts, no suits. Elegant warm daylight, natural skin texture, realistic anatomy and hands. Earthy peach and terracotta color harmony. Medium wide human-centered editorial composition with all four people visible. Premium documentary photography, understated and authentic. No readable text, logos, watermarks, staged handshakes, or graphic overlays.

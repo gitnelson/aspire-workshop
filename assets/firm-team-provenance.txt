@@ -1,0 +1,11 @@
+Asset: firm-team.webp
+Source: firm-team-original.png
+Generated with OpenAI built-in image_gen tool, September 19, 2026.
+Generated source: C:/Users/corey/.codex/generated_images/01a0bbac-3ebd-7232-85ad-674effa7d5bb/exec-9a8ac3fe-74f1-4174-a523-090cd1003371.png
+AI-generated fictional people and setting; does not depict actual network members or legal partners.
+Dimensions: 1586 x 992 pixels (native generated size).
+Optimization: Pillow WebP quality 88, method 6; no visual edits.
+Visual review: Three casually professional adults collaborating over papers. Natural expressions and warm afternoon light; no legible text, logos, or legal cliches.
+
+Prompt:
+Use case: photorealistic-natural. Asset type: premium editorial supporting photograph for a fictional Tulsa housing justice network law-firm and mission website. Create one high quality landscape photograph, approximately 1600x1000. Three adult colleagues collaborating over papers at a wooden table in a welcoming community office: a Black woman attorney wearing an olive overshirt, an older Latino male attorney in a relaxed blue shirt, and a woman colleague in a simple warm neutral knit top. Casually professional, no ties or formal business suits. Candid engaged natural expressions, realistic skin texture, believable hands, thoughtful collaboration rather than posed corporate smiles. Warm natural afternoon window light, warm peach and terracotta accents, earthy civic visual identity. Premium documentary photographic feel, restrained color grading, subtle depth of field, eye-level medium-wide composition, subjects clearly visible and generous breathing room around them. Plain papers with no discernible text. Avoid legal cliches, gavels, scales, logos, watermarks, any typography or text, overdone stock photo polish.
